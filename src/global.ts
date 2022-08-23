@@ -5,3 +5,5 @@ export default {
   ...ECharts,
   ...exported
 };
+// Comment di index.ts pada demo
+// Comment global
